@@ -23,3 +23,8 @@ contract.methods.balanceOf(userAddress).call()
 ```
 
 ![Alt text](image-3.png)
+
+LICENSE
+https://github.com/OpenZepp
+elin/openzeppelin-
+contracts/blob/master/LICENSE
